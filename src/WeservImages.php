@@ -1,10 +1,10 @@
 <?php
 
-namespace Everzel;
+namespace Everzel\WeservPhp;
 
-use Everzel\Concerns\InteractWithFitFormats;
-use Everzel\Concerns\InteractWithOutputFormats;
-use Everzel\Enums\Filter;
+use Everzel\WeservPhp\Concerns\InteractWithFitFormats;
+use Everzel\WeservPhp\Concerns\InteractWithOutputFormats;
+use Everzel\WeservPhp\Enums\Filter;
 
 class WeservImages
 {

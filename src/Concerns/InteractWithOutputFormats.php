@@ -1,8 +1,8 @@
 <?php
 
-namespace Everzel\Concerns;
+namespace Everzel\WeservPhp\Concerns;
 
-use Everzel\Enums\Output;
+use Everzel\WeservPhpEnums\Output;
 
 trait InteractWithOutputFormats
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Everzel\Enums;
+namespace Everzel\WeservPhp\Enums;
 
 enum Mask: string
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Everzel\Concerns;
+namespace Everzel\WeservPhp\Concerns;
 
-use Everzel\Enums\Fit;
+use Everzel\WeservPhpEnums\Fit;
 
 trait InteractWithFitFormats
 {
