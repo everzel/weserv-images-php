@@ -1,0 +1,21 @@
+{
+    "name": "everzel/weserv-php",
+    "description": "Images.weserv.nl",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zelvad\\WeservPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "everzel",
+            "email": "vladislav.zelenyk@scalemeup.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.1"
+    }
+}
