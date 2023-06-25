@@ -7,7 +7,7 @@ This package provides a fluent PHP OOP builder for [images.weserv.nl](https://im
 You can install the package via composer:
 
 ```bash
-composer require everzel/weserv-images-php
+composer require everzel/weserv-php
 ```
 
 ## Usage
