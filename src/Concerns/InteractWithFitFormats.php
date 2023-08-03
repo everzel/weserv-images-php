@@ -2,7 +2,7 @@
 
 namespace Everzel\WeservPhp\Concerns;
 
-use Everzel\WeservPhpEnums\Fit;
+use Everzel\WeservPhp\Enums\Fit;
 
 trait InteractWithFitFormats
 {
