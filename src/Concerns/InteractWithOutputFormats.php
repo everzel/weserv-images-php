@@ -2,7 +2,7 @@
 
 namespace Everzel\WeservPhp\Concerns;
 
-use Everzel\WeservPhpEnums\Output;
+use Everzel\WeservPhp\Enums\Output;
 
 trait InteractWithOutputFormats
 {
